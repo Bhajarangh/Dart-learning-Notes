@@ -1,0 +1,3 @@
+void sayHello() {
+  print("Hello!");
+}
